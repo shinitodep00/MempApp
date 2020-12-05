@@ -14,6 +14,7 @@
     "react/destructuring-assignment": 0,
     "react/state-in-constructor": 0,
     "key-spacing": 0,
+    "react/jsx-no-bind": 0,
     "react/style-prop-object": 0
   },
   "parser": "babel-eslint"
